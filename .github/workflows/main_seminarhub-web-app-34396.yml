@@ -64,5 +64,5 @@ jobs:
         with:
           app-name: 'seminarhub-web-app-34396'
           slot-name: 'Production'
-          package: .
+          package: ./SeminarHub
           
